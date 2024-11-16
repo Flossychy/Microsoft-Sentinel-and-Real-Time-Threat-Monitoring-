@@ -1,5 +1,4 @@
 
----
 
 # **Implementing Microsoft Sentinel for Real-Time Threat Monitoring and Incident Response**
 
@@ -22,7 +21,6 @@ Microsoft Sentinel is a cloud-native Security Information and Event Management (
 - **Microsoft Entra ID**: Source for sign-in and audit logs.
 - **Azure Logic Apps**: Automation for incident response.
 - **Log Analytics Workspace**: Core data repository for Sentinel.
-
 
 ---
 
