@@ -152,7 +152,3 @@ This project highlights the power of Microsoft Sentinel for proactive threat det
 │   ├── analytic_rules.png
 │   ├── incident_dashboard.png
 ```
-
----
-
-This structure and README format will make your project appealing, well-documented, and easy to understand for prospective reviewers. Let me know if you'd like to refine any section!
